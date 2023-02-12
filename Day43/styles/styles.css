@@ -56,6 +56,15 @@ body {
 }
 
 .form-content {
+    display: flex; //Made by manvendra
+justify-content: center;//Made by manvendra
+align-content: center;//Made by manvendra
+    min-height: calc(100% - 80px);
+    background-color: #f7f7f7;
+    display: flex;
+    justify-items: center;
+    align-items: right;
+    border: 0px solid green;
     min-height: calc(100% - 80px);
     background-color: #f7f7f7;
     display: flex;
